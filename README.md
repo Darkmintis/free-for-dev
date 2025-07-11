@@ -419,8 +419,8 @@ Table of Contents
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
    * [fieldbook.com](https://fieldbook.com/) — Fieldbook lets anyone create a simple tracking database, as easily as a spreadsheet. Automatic API. Unlimited free sheets, share with unlimited users
    * [iriscouch.com](http://www.iriscouch.com/) — CouchDB as a service. Free for developing, prototyping, etc
-   * [spreadsheetdb.io](https://www.spreadsheetdb.io) - Database that can be queried with spreadsheets, 3 spreadsheets and 200 rows
-     free
+   * [spreadsheetdb.io](https://www.spreadsheetdb.io) - Database that can be queried with spreadsheets, 3 spreadsheets and 200 rows free
+   * [lite.xata.io](https://lite.xata.io/) — Serverless database platform with built-in caching, search, and analytics. Free tier offers 15GB storage, 50M records/month, 10M read requests/month.
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
